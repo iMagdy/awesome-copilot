@@ -1,0 +1,1051 @@
+{
+  "exports": {
+    "acquire-codebase-knowledge": {
+      "path": "skills/acquire-codebase-knowledge"
+    },
+    "acreadiness-assess": {
+      "path": "skills/acreadiness-assess"
+    },
+    "acreadiness-generate-instructions": {
+      "path": "skills/acreadiness-generate-instructions"
+    },
+    "acreadiness-policy": {
+      "path": "skills/acreadiness-policy"
+    },
+    "add-educational-comments": {
+      "path": "skills/add-educational-comments"
+    },
+    "adobe-illustrator-scripting": {
+      "path": "skills/adobe-illustrator-scripting"
+    },
+    "agent-governance": {
+      "path": "skills/agent-governance"
+    },
+    "agent-owasp-compliance": {
+      "path": "skills/agent-owasp-compliance"
+    },
+    "agent-supply-chain": {
+      "path": "skills/agent-supply-chain"
+    },
+    "agentic-eval": {
+      "path": "skills/agentic-eval"
+    },
+    "ai-prompt-engineering-safety-review": {
+      "path": "skills/ai-prompt-engineering-safety-review"
+    },
+    "ai-ready": {
+      "path": "skills/ai-ready"
+    },
+    "ai-team-orchestration": {
+      "path": "skills/ai-team-orchestration"
+    },
+    "appinsights-instrumentation": {
+      "path": "skills/appinsights-instrumentation"
+    },
+    "apple-appstore-reviewer": {
+      "path": "skills/apple-appstore-reviewer"
+    },
+    "arch-linux-triage": {
+      "path": "skills/arch-linux-triage"
+    },
+    "architecture-blueprint-generator": {
+      "path": "skills/architecture-blueprint-generator"
+    },
+    "arduino-azure-iot-edge-integration": {
+      "path": "skills/arduino-azure-iot-edge-integration"
+    },
+    "arize-ai-provider-integration": {
+      "path": "skills/arize-ai-provider-integration"
+    },
+    "arize-annotation": {
+      "path": "skills/arize-annotation"
+    },
+    "arize-dataset": {
+      "path": "skills/arize-dataset"
+    },
+    "arize-evaluator": {
+      "path": "skills/arize-evaluator"
+    },
+    "arize-experiment": {
+      "path": "skills/arize-experiment"
+    },
+    "arize-instrumentation": {
+      "path": "skills/arize-instrumentation"
+    },
+    "arize-link": {
+      "path": "skills/arize-link"
+    },
+    "arize-prompt-optimization": {
+      "path": "skills/arize-prompt-optimization"
+    },
+    "arize-trace": {
+      "path": "skills/arize-trace"
+    },
+    "aspire": {
+      "path": "skills/aspire"
+    },
+    "aspnet-minimal-api-openapi": {
+      "path": "skills/aspnet-minimal-api-openapi"
+    },
+    "audit-integrity": {
+      "path": "skills/audit-integrity"
+    },
+    "automate-this": {
+      "path": "skills/automate-this"
+    },
+    "autoresearch": {
+      "path": "skills/autoresearch"
+    },
+    "aws-cdk-python-setup": {
+      "path": "skills/aws-cdk-python-setup"
+    },
+    "az-cost-optimize": {
+      "path": "skills/az-cost-optimize"
+    },
+    "azure-architecture-autopilot": {
+      "path": "skills/azure-architecture-autopilot"
+    },
+    "azure-deployment-preflight": {
+      "path": "skills/azure-deployment-preflight"
+    },
+    "azure-devops-cli": {
+      "path": "skills/azure-devops-cli"
+    },
+    "azure-pricing": {
+      "path": "skills/azure-pricing"
+    },
+    "azure-resource-health-diagnose": {
+      "path": "skills/azure-resource-health-diagnose"
+    },
+    "azure-resource-visualizer": {
+      "path": "skills/azure-resource-visualizer"
+    },
+    "azure-role-selector": {
+      "path": "skills/azure-role-selector"
+    },
+    "azure-smart-city-iot-solution-builder": {
+      "path": "skills/azure-smart-city-iot-solution-builder"
+    },
+    "azure-static-web-apps": {
+      "path": "skills/azure-static-web-apps"
+    },
+    "batch-files": {
+      "path": "skills/batch-files"
+    },
+    "bigquery-pipeline-audit": {
+      "path": "skills/bigquery-pipeline-audit"
+    },
+    "boost-prompt": {
+      "path": "skills/boost-prompt"
+    },
+    "brag-sheet": {
+      "path": "skills/brag-sheet"
+    },
+    "breakdown-epic-arch": {
+      "path": "skills/breakdown-epic-arch"
+    },
+    "breakdown-epic-pm": {
+      "path": "skills/breakdown-epic-pm"
+    },
+    "breakdown-feature-implementation": {
+      "path": "skills/breakdown-feature-implementation"
+    },
+    "breakdown-feature-prd": {
+      "path": "skills/breakdown-feature-prd"
+    },
+    "breakdown-plan": {
+      "path": "skills/breakdown-plan"
+    },
+    "breakdown-test": {
+      "path": "skills/breakdown-test"
+    },
+    "centos-linux-triage": {
+      "path": "skills/centos-linux-triage"
+    },
+    "chrome-devtools": {
+      "path": "skills/chrome-devtools"
+    },
+    "cli-mastery": {
+      "path": "skills/cli-mastery"
+    },
+    "cloud-design-patterns": {
+      "path": "skills/cloud-design-patterns"
+    },
+    "code-exemplars-blueprint-generator": {
+      "path": "skills/code-exemplars-blueprint-generator"
+    },
+    "code-tour": {
+      "path": "skills/code-tour"
+    },
+    "codeql": {
+      "path": "skills/codeql"
+    },
+    "comment-code-generate-a-tutorial": {
+      "path": "skills/comment-code-generate-a-tutorial"
+    },
+    "commit-message-storyteller": {
+      "path": "skills/commit-message-storyteller"
+    },
+    "containerize-aspnet-framework": {
+      "path": "skills/containerize-aspnet-framework"
+    },
+    "containerize-aspnetcore": {
+      "path": "skills/containerize-aspnetcore"
+    },
+    "content-management-systems": {
+      "path": "skills/content-management-systems"
+    },
+    "context-map": {
+      "path": "skills/context-map"
+    },
+    "conventional-branch": {
+      "path": "skills/conventional-branch"
+    },
+    "conventional-commit": {
+      "path": "skills/conventional-commit"
+    },
+    "convert-plaintext-to-md": {
+      "path": "skills/convert-plaintext-to-md"
+    },
+    "copilot-cli-quickstart": {
+      "path": "skills/copilot-cli-quickstart"
+    },
+    "copilot-instructions-blueprint-generator": {
+      "path": "skills/copilot-instructions-blueprint-generator"
+    },
+    "copilot-sdk": {
+      "path": "skills/copilot-sdk"
+    },
+    "copilot-spaces": {
+      "path": "skills/copilot-spaces"
+    },
+    "copilot-usage-metrics": {
+      "path": "skills/copilot-usage-metrics"
+    },
+    "cosmosdb-datamodeling": {
+      "path": "skills/cosmosdb-datamodeling"
+    },
+    "create-agentsmd": {
+      "path": "skills/create-agentsmd"
+    },
+    "create-architectural-decision-record": {
+      "path": "skills/create-architectural-decision-record"
+    },
+    "create-github-action-workflow-specification": {
+      "path": "skills/create-github-action-workflow-specification"
+    },
+    "create-github-issue-feature-from-specification": {
+      "path": "skills/create-github-issue-feature-from-specification"
+    },
+    "create-github-issues-feature-from-implementation-plan": {
+      "path": "skills/create-github-issues-feature-from-implementation-plan"
+    },
+    "create-github-issues-for-unmet-specification-requirements": {
+      "path": "skills/create-github-issues-for-unmet-specification-requirements"
+    },
+    "create-implementation-plan": {
+      "path": "skills/create-implementation-plan"
+    },
+    "create-llms": {
+      "path": "skills/create-llms"
+    },
+    "create-readme": {
+      "path": "skills/create-readme"
+    },
+    "create-specification": {
+      "path": "skills/create-specification"
+    },
+    "create-spring-boot-java-project": {
+      "path": "skills/create-spring-boot-java-project"
+    },
+    "create-spring-boot-kotlin-project": {
+      "path": "skills/create-spring-boot-kotlin-project"
+    },
+    "create-technical-spike": {
+      "path": "skills/create-technical-spike"
+    },
+    "create-tldr-page": {
+      "path": "skills/create-tldr-page"
+    },
+    "creating-oracle-to-postgres-master-migration-plan": {
+      "path": "skills/creating-oracle-to-postgres-master-migration-plan"
+    },
+    "creating-oracle-to-postgres-migration-bug-report": {
+      "path": "skills/creating-oracle-to-postgres-migration-bug-report"
+    },
+    "creating-oracle-to-postgres-migration-integration-tests": {
+      "path": "skills/creating-oracle-to-postgres-migration-integration-tests"
+    },
+    "csharp-async": {
+      "path": "skills/csharp-async"
+    },
+    "csharp-docs": {
+      "path": "skills/csharp-docs"
+    },
+    "csharp-mstest": {
+      "path": "skills/csharp-mstest"
+    },
+    "csharp-nunit": {
+      "path": "skills/csharp-nunit"
+    },
+    "csharp-tunit": {
+      "path": "skills/csharp-tunit"
+    },
+    "csharp-xunit": {
+      "path": "skills/csharp-xunit"
+    },
+    "daily-prep": {
+      "path": "skills/daily-prep"
+    },
+    "data-breach-blast-radius": {
+      "path": "skills/data-breach-blast-radius"
+    },
+    "datanalysis-credit-risk": {
+      "path": "skills/datanalysis-credit-risk"
+    },
+    "dataverse-python-advanced-patterns": {
+      "path": "skills/dataverse-python-advanced-patterns"
+    },
+    "dataverse-python-production-code": {
+      "path": "skills/dataverse-python-production-code"
+    },
+    "dataverse-python-quickstart": {
+      "path": "skills/dataverse-python-quickstart"
+    },
+    "dataverse-python-usecase-builder": {
+      "path": "skills/dataverse-python-usecase-builder"
+    },
+    "debian-linux-triage": {
+      "path": "skills/debian-linux-triage"
+    },
+    "declarative-agents": {
+      "path": "skills/declarative-agents"
+    },
+    "dependabot": {
+      "path": "skills/dependabot"
+    },
+    "devops-rollout-plan": {
+      "path": "skills/devops-rollout-plan"
+    },
+    "diagnose": {
+      "path": "skills/diagnose"
+    },
+    "documentation-writer": {
+      "path": "skills/documentation-writer"
+    },
+    "dotnet-best-practices": {
+      "path": "skills/dotnet-best-practices"
+    },
+    "dotnet-design-pattern-review": {
+      "path": "skills/dotnet-design-pattern-review"
+    },
+    "dotnet-mcp-builder": {
+      "path": "skills/dotnet-mcp-builder"
+    },
+    "dotnet-timezone": {
+      "path": "skills/dotnet-timezone"
+    },
+    "dotnet-upgrade": {
+      "path": "skills/dotnet-upgrade"
+    },
+    "doublecheck": {
+      "path": "skills/doublecheck"
+    },
+    "draw-io-diagram-generator": {
+      "path": "skills/draw-io-diagram-generator"
+    },
+    "drawio": {
+      "path": "skills/drawio"
+    },
+    "editorconfig": {
+      "path": "skills/editorconfig"
+    },
+    "ef-core": {
+      "path": "skills/ef-core"
+    },
+    "efcore-d2-db-diagram": {
+      "path": "skills/efcore-d2-db-diagram"
+    },
+    "email-drafter": {
+      "path": "skills/email-drafter"
+    },
+    "entra-agent-user": {
+      "path": "skills/entra-agent-user"
+    },
+    "eval-driven-dev": {
+      "path": "skills/eval-driven-dev"
+    },
+    "exam-ready": {
+      "path": "skills/exam-ready"
+    },
+    "excalidraw-diagram-generator": {
+      "path": "skills/excalidraw-diagram-generator"
+    },
+    "eyeball": {
+      "path": "skills/eyeball"
+    },
+    "fabric-lakehouse": {
+      "path": "skills/fabric-lakehouse"
+    },
+    "fedora-linux-triage": {
+      "path": "skills/fedora-linux-triage"
+    },
+    "finalize-agent-prompt": {
+      "path": "skills/finalize-agent-prompt"
+    },
+    "finnish-humanizer": {
+      "path": "skills/finnish-humanizer"
+    },
+    "first-ask": {
+      "path": "skills/first-ask"
+    },
+    "flowstudio-power-automate-build": {
+      "path": "skills/flowstudio-power-automate-build"
+    },
+    "flowstudio-power-automate-debug": {
+      "path": "skills/flowstudio-power-automate-debug"
+    },
+    "flowstudio-power-automate-governance": {
+      "path": "skills/flowstudio-power-automate-governance"
+    },
+    "flowstudio-power-automate-mcp": {
+      "path": "skills/flowstudio-power-automate-mcp"
+    },
+    "flowstudio-power-automate-monitoring": {
+      "path": "skills/flowstudio-power-automate-monitoring"
+    },
+    "fluentui-blazor": {
+      "path": "skills/fluentui-blazor"
+    },
+    "folder-structure-blueprint-generator": {
+      "path": "skills/folder-structure-blueprint-generator"
+    },
+    "foundry-agent-sync": {
+      "path": "skills/foundry-agent-sync"
+    },
+    "freecad-scripts": {
+      "path": "skills/freecad-scripts"
+    },
+    "from-the-other-side-anitta": {
+      "path": "skills/from-the-other-side-anitta"
+    },
+    "from-the-other-side-quinn": {
+      "path": "skills/from-the-other-side-quinn"
+    },
+    "from-the-other-side-vega": {
+      "path": "skills/from-the-other-side-vega"
+    },
+    "from-the-other-side-wiggins": {
+      "path": "skills/from-the-other-side-wiggins"
+    },
+    "game-engine": {
+      "path": "skills/game-engine"
+    },
+    "gdpr-compliant": {
+      "path": "skills/gdpr-compliant"
+    },
+    "gen-specs-as-issues": {
+      "path": "skills/gen-specs-as-issues"
+    },
+    "generate-custom-instructions-from-codebase": {
+      "path": "skills/generate-custom-instructions-from-codebase"
+    },
+    "generate-image": {
+      "path": "skills/generate-image"
+    },
+    "geofeed-tuner": {
+      "path": "skills/geofeed-tuner"
+    },
+    "git-commit": {
+      "path": "skills/git-commit"
+    },
+    "git-flow-branch-creator": {
+      "path": "skills/git-flow-branch-creator"
+    },
+    "github-actions-efficiency": {
+      "path": "skills/github-actions-efficiency"
+    },
+    "github-codespaces-efficiency": {
+      "path": "skills/github-codespaces-efficiency"
+    },
+    "github-copilot-starter": {
+      "path": "skills/github-copilot-starter"
+    },
+    "github-issues": {
+      "path": "skills/github-issues"
+    },
+    "github-release": {
+      "path": "skills/github-release"
+    },
+    "go-mcp-server-generator": {
+      "path": "skills/go-mcp-server-generator"
+    },
+    "gsap-framer-scroll-animation": {
+      "path": "skills/gsap-framer-scroll-animation"
+    },
+    "gtm-0-to-1-launch": {
+      "path": "skills/gtm-0-to-1-launch"
+    },
+    "gtm-ai-gtm": {
+      "path": "skills/gtm-ai-gtm"
+    },
+    "gtm-board-and-investor-communication": {
+      "path": "skills/gtm-board-and-investor-communication"
+    },
+    "gtm-developer-ecosystem": {
+      "path": "skills/gtm-developer-ecosystem"
+    },
+    "gtm-enterprise-account-planning": {
+      "path": "skills/gtm-enterprise-account-planning"
+    },
+    "gtm-enterprise-onboarding": {
+      "path": "skills/gtm-enterprise-onboarding"
+    },
+    "gtm-operating-cadence": {
+      "path": "skills/gtm-operating-cadence"
+    },
+    "gtm-partnership-architecture": {
+      "path": "skills/gtm-partnership-architecture"
+    },
+    "gtm-positioning-strategy": {
+      "path": "skills/gtm-positioning-strategy"
+    },
+    "gtm-product-led-growth": {
+      "path": "skills/gtm-product-led-growth"
+    },
+    "gtm-technical-product-pricing": {
+      "path": "skills/gtm-technical-product-pricing"
+    },
+    "image-annotations": {
+      "path": "skills/image-annotations"
+    },
+    "image-manipulation-image-magick": {
+      "path": "skills/image-manipulation-image-magick"
+    },
+    "impediment-prioritization": {
+      "path": "skills/impediment-prioritization"
+    },
+    "import-infrastructure-as-code": {
+      "path": "skills/import-infrastructure-as-code"
+    },
+    "integrate-context-matic": {
+      "path": "skills/integrate-context-matic"
+    },
+    "issue-fields-migration": {
+      "path": "skills/issue-fields-migration"
+    },
+    "java-add-graalvm-native-image-support": {
+      "path": "skills/java-add-graalvm-native-image-support"
+    },
+    "java-docs": {
+      "path": "skills/java-docs"
+    },
+    "java-junit": {
+      "path": "skills/java-junit"
+    },
+    "java-mcp-server-generator": {
+      "path": "skills/java-mcp-server-generator"
+    },
+    "java-refactoring-extract-method": {
+      "path": "skills/java-refactoring-extract-method"
+    },
+    "java-refactoring-remove-parameter": {
+      "path": "skills/java-refactoring-remove-parameter"
+    },
+    "java-springboot": {
+      "path": "skills/java-springboot"
+    },
+    "javascript-typescript-jest": {
+      "path": "skills/javascript-typescript-jest"
+    },
+    "javax-to-jakarta-migration": {
+      "path": "skills/javax-to-jakarta-migration"
+    },
+    "kotlin-mcp-server-generator": {
+      "path": "skills/kotlin-mcp-server-generator"
+    },
+    "kotlin-springboot": {
+      "path": "skills/kotlin-springboot"
+    },
+    "legacy-circuit-mockups": {
+      "path": "skills/legacy-circuit-mockups"
+    },
+    "linkedin-post-formatter": {
+      "path": "skills/linkedin-post-formatter"
+    },
+    "lsp-setup": {
+      "path": "skills/lsp-setup"
+    },
+    "make-repo-contribution": {
+      "path": "skills/make-repo-contribution"
+    },
+    "markdown-to-html": {
+      "path": "skills/markdown-to-html"
+    },
+    "mcp-cli": {
+      "path": "skills/mcp-cli"
+    },
+    "mcp-copilot-studio-server-generator": {
+      "path": "skills/mcp-copilot-studio-server-generator"
+    },
+    "mcp-create-adaptive-cards": {
+      "path": "skills/mcp-create-adaptive-cards"
+    },
+    "mcp-create-declarative-agent": {
+      "path": "skills/mcp-create-declarative-agent"
+    },
+    "mcp-deploy-manage-agents": {
+      "path": "skills/mcp-deploy-manage-agents"
+    },
+    "mcp-security-audit": {
+      "path": "skills/mcp-security-audit"
+    },
+    "md-to-docx": {
+      "path": "skills/md-to-docx"
+    },
+    "meeting-minutes": {
+      "path": "skills/meeting-minutes"
+    },
+    "memory-merger": {
+      "path": "skills/memory-merger"
+    },
+    "mentoring-juniors": {
+      "path": "skills/mentoring-juniors"
+    },
+    "microsoft-agent-framework": {
+      "path": "skills/microsoft-agent-framework"
+    },
+    "microsoft-code-reference": {
+      "path": "skills/microsoft-code-reference"
+    },
+    "microsoft-docs": {
+      "path": "skills/microsoft-docs"
+    },
+    "microsoft-skill-creator": {
+      "path": "skills/microsoft-skill-creator"
+    },
+    "migrating-oracle-to-postgres-stored-procedures": {
+      "path": "skills/migrating-oracle-to-postgres-stored-procedures"
+    },
+    "minecraft-plugin-development": {
+      "path": "skills/minecraft-plugin-development"
+    },
+    "mini-context-graph": {
+      "path": "skills/mini-context-graph"
+    },
+    "mkdocs-translations": {
+      "path": "skills/mkdocs-translations"
+    },
+    "msgraph-sdk": {
+      "path": "skills/msgraph-sdk"
+    },
+    "msstore-cli": {
+      "path": "skills/msstore-cli"
+    },
+    "multi-stage-dockerfile": {
+      "path": "skills/multi-stage-dockerfile"
+    },
+    "mvvm-toolkit-di": {
+      "path": "skills/mvvm-toolkit-di"
+    },
+    "mvvm-toolkit-messenger": {
+      "path": "skills/mvvm-toolkit-messenger"
+    },
+    "mvvm-toolkit": {
+      "path": "skills/mvvm-toolkit"
+    },
+    "nano-banana-pro-openrouter": {
+      "path": "skills/nano-banana-pro-openrouter"
+    },
+    "napkin": {
+      "path": "skills/napkin"
+    },
+    "next-intl-add-language": {
+      "path": "skills/next-intl-add-language"
+    },
+    "noob-mode": {
+      "path": "skills/noob-mode"
+    },
+    "nuget-manager": {
+      "path": "skills/nuget-manager"
+    },
+    "onboard-context-matic": {
+      "path": "skills/onboard-context-matic"
+    },
+    "oo-component-documentation": {
+      "path": "skills/oo-component-documentation"
+    },
+    "openapi-to-application-code": {
+      "path": "skills/openapi-to-application-code"
+    },
+    "optimize-simplicite-logs": {
+      "path": "skills/optimize-simplicite-logs"
+    },
+    "pdftk-server": {
+      "path": "skills/pdftk-server"
+    },
+    "penpot-uiux-design": {
+      "path": "skills/penpot-uiux-design"
+    },
+    "performance-review-writer": {
+      "path": "skills/performance-review-writer"
+    },
+    "phoenix-cli": {
+      "path": "skills/phoenix-cli"
+    },
+    "phoenix-evals": {
+      "path": "skills/phoenix-evals"
+    },
+    "phoenix-tracing": {
+      "path": "skills/phoenix-tracing"
+    },
+    "php-mcp-server-generator": {
+      "path": "skills/php-mcp-server-generator"
+    },
+    "planning-oracle-to-postgres-migration-integration-testing": {
+      "path": "skills/planning-oracle-to-postgres-migration-integration-testing"
+    },
+    "plantuml-ascii": {
+      "path": "skills/plantuml-ascii"
+    },
+    "playwright-automation-fill-in-form": {
+      "path": "skills/playwright-automation-fill-in-form"
+    },
+    "playwright-explore-website": {
+      "path": "skills/playwright-explore-website"
+    },
+    "playwright-generate-test": {
+      "path": "skills/playwright-generate-test"
+    },
+    "postgresql-code-review": {
+      "path": "skills/postgresql-code-review"
+    },
+    "postgresql-optimization": {
+      "path": "skills/postgresql-optimization"
+    },
+    "power-apps-code-app-scaffold": {
+      "path": "skills/power-apps-code-app-scaffold"
+    },
+    "power-bi-dax-optimization": {
+      "path": "skills/power-bi-dax-optimization"
+    },
+    "power-bi-model-design-review": {
+      "path": "skills/power-bi-model-design-review"
+    },
+    "power-bi-performance-troubleshooting": {
+      "path": "skills/power-bi-performance-troubleshooting"
+    },
+    "power-bi-report-design-consultation": {
+      "path": "skills/power-bi-report-design-consultation"
+    },
+    "power-platform-architect": {
+      "path": "skills/power-platform-architect"
+    },
+    "power-platform-mcp-connector-suite": {
+      "path": "skills/power-platform-mcp-connector-suite"
+    },
+    "powerbi-modeling": {
+      "path": "skills/powerbi-modeling"
+    },
+    "pr-dashboard": {
+      "path": "skills/pr-dashboard"
+    },
+    "pr-screenshots": {
+      "path": "skills/pr-screenshots"
+    },
+    "prd": {
+      "path": "skills/prd"
+    },
+    "premium-frontend-ui": {
+      "path": "skills/premium-frontend-ui"
+    },
+    "project-workflow-analysis-blueprint-generator": {
+      "path": "skills/project-workflow-analysis-blueprint-generator"
+    },
+    "prompt-optimizer": {
+      "path": "skills/prompt-optimizer"
+    },
+    "publish-to-pages": {
+      "path": "skills/publish-to-pages"
+    },
+    "pytest-coverage": {
+      "path": "skills/pytest-coverage"
+    },
+    "python-azure-iot-edge-modules": {
+      "path": "skills/python-azure-iot-edge-modules"
+    },
+    "python-mcp-server-generator": {
+      "path": "skills/python-mcp-server-generator"
+    },
+    "python-pypi-package-builder": {
+      "path": "skills/python-pypi-package-builder"
+    },
+    "qdrant-clients-sdk": {
+      "path": "skills/qdrant-clients-sdk"
+    },
+    "qdrant-deployment-options": {
+      "path": "skills/qdrant-deployment-options"
+    },
+    "qdrant-model-migration": {
+      "path": "skills/qdrant-model-migration"
+    },
+    "qdrant-monitoring": {
+      "path": "skills/qdrant-monitoring"
+    },
+    "qdrant-performance-optimization": {
+      "path": "skills/qdrant-performance-optimization"
+    },
+    "qdrant-scaling": {
+      "path": "skills/qdrant-scaling"
+    },
+    "qdrant-search-quality": {
+      "path": "skills/qdrant-search-quality"
+    },
+    "qdrant-version-upgrade": {
+      "path": "skills/qdrant-version-upgrade"
+    },
+    "quality-playbook": {
+      "path": "skills/quality-playbook"
+    },
+    "quasi-coder": {
+      "path": "skills/quasi-coder"
+    },
+    "react-audit-grep-patterns": {
+      "path": "skills/react-audit-grep-patterns"
+    },
+    "react18-batching-patterns": {
+      "path": "skills/react18-batching-patterns"
+    },
+    "react18-dep-compatibility": {
+      "path": "skills/react18-dep-compatibility"
+    },
+    "react18-enzyme-to-rtl": {
+      "path": "skills/react18-enzyme-to-rtl"
+    },
+    "react18-legacy-context": {
+      "path": "skills/react18-legacy-context"
+    },
+    "react18-lifecycle-patterns": {
+      "path": "skills/react18-lifecycle-patterns"
+    },
+    "react18-string-refs": {
+      "path": "skills/react18-string-refs"
+    },
+    "react19-concurrent-patterns": {
+      "path": "skills/react19-concurrent-patterns"
+    },
+    "react19-source-patterns": {
+      "path": "skills/react19-source-patterns"
+    },
+    "react19-test-patterns": {
+      "path": "skills/react19-test-patterns"
+    },
+    "readme-blueprint-generator": {
+      "path": "skills/readme-blueprint-generator"
+    },
+    "refactor-method-complexity-reduce": {
+      "path": "skills/refactor-method-complexity-reduce"
+    },
+    "refactor-plan": {
+      "path": "skills/refactor-plan"
+    },
+    "refactor": {
+      "path": "skills/refactor"
+    },
+    "remember-interactive-programming": {
+      "path": "skills/remember-interactive-programming"
+    },
+    "remember": {
+      "path": "skills/remember"
+    },
+    "repo-story-time": {
+      "path": "skills/repo-story-time"
+    },
+    "resemble-detect": {
+      "path": "skills/resemble-detect"
+    },
+    "review-and-refactor": {
+      "path": "skills/review-and-refactor"
+    },
+    "reviewing-oracle-to-postgres-migration": {
+      "path": "skills/reviewing-oracle-to-postgres-migration"
+    },
+    "rhino3d-scripts": {
+      "path": "skills/rhino3d-scripts"
+    },
+    "roundup-setup": {
+      "path": "skills/roundup-setup"
+    },
+    "roundup": {
+      "path": "skills/roundup"
+    },
+    "ruby-mcp-server-generator": {
+      "path": "skills/ruby-mcp-server-generator"
+    },
+    "ruff-recursive-fix": {
+      "path": "skills/ruff-recursive-fix"
+    },
+    "rust-mcp-server-generator": {
+      "path": "skills/rust-mcp-server-generator"
+    },
+    "salesforce-apex-quality": {
+      "path": "skills/salesforce-apex-quality"
+    },
+    "salesforce-component-standards": {
+      "path": "skills/salesforce-component-standards"
+    },
+    "salesforce-flow-design": {
+      "path": "skills/salesforce-flow-design"
+    },
+    "sandbox-npm-install": {
+      "path": "skills/sandbox-npm-install"
+    },
+    "scaffolding-oracle-to-postgres-migration-test-project": {
+      "path": "skills/scaffolding-oracle-to-postgres-migration-test-project"
+    },
+    "scoutqa-test": {
+      "path": "skills/scoutqa-test"
+    },
+    "screen-recording": {
+      "path": "skills/screen-recording"
+    },
+    "secret-scanning": {
+      "path": "skills/secret-scanning"
+    },
+    "security-review": {
+      "path": "skills/security-review"
+    },
+    "semantic-kernel": {
+      "path": "skills/semantic-kernel"
+    },
+    "shuffle-json-data": {
+      "path": "skills/shuffle-json-data"
+    },
+    "slang-shader-engineer": {
+      "path": "skills/slang-shader-engineer"
+    },
+    "snowflake-semanticview": {
+      "path": "skills/snowflake-semanticview"
+    },
+    "sponsor-finder": {
+      "path": "skills/sponsor-finder"
+    },
+    "spring-boot-testing": {
+      "path": "skills/spring-boot-testing"
+    },
+    "sql-code-review": {
+      "path": "skills/sql-code-review"
+    },
+    "sql-optimization": {
+      "path": "skills/sql-optimization"
+    },
+    "sql-server-table-reconciliation": {
+      "path": "skills/sql-server-table-reconciliation"
+    },
+    "ssma-console": {
+      "path": "skills/ssma-console"
+    },
+    "structured-autonomy-generate": {
+      "path": "skills/structured-autonomy-generate"
+    },
+    "structured-autonomy-implement": {
+      "path": "skills/structured-autonomy-implement"
+    },
+    "structured-autonomy-plan": {
+      "path": "skills/structured-autonomy-plan"
+    },
+    "suggest-awesome-github-copilot-agents": {
+      "path": "skills/suggest-awesome-github-copilot-agents"
+    },
+    "suggest-awesome-github-copilot-instructions": {
+      "path": "skills/suggest-awesome-github-copilot-instructions"
+    },
+    "suggest-awesome-github-copilot-skills": {
+      "path": "skills/suggest-awesome-github-copilot-skills"
+    },
+    "swift-mcp-server-generator": {
+      "path": "skills/swift-mcp-server-generator"
+    },
+    "technology-stack-blueprint-generator": {
+      "path": "skills/technology-stack-blueprint-generator"
+    },
+    "terraform-azurerm-set-diff-analyzer": {
+      "path": "skills/terraform-azurerm-set-diff-analyzer"
+    },
+    "threat-model-analyst": {
+      "path": "skills/threat-model-analyst"
+    },
+    "tldr-prompt": {
+      "path": "skills/tldr-prompt"
+    },
+    "transloadit-media-processing": {
+      "path": "skills/transloadit-media-processing"
+    },
+    "typescript-mcp-server-generator": {
+      "path": "skills/typescript-mcp-server-generator"
+    },
+    "typespec-api-operations": {
+      "path": "skills/typespec-api-operations"
+    },
+    "typespec-create-agent": {
+      "path": "skills/typespec-create-agent"
+    },
+    "typespec-create-api-plugin": {
+      "path": "skills/typespec-create-api-plugin"
+    },
+    "ui-screenshots": {
+      "path": "skills/ui-screenshots"
+    },
+    "unit-test-vue-pinia": {
+      "path": "skills/unit-test-vue-pinia"
+    },
+    "update-avm-modules-in-bicep": {
+      "path": "skills/update-avm-modules-in-bicep"
+    },
+    "update-implementation-plan": {
+      "path": "skills/update-implementation-plan"
+    },
+    "update-llms": {
+      "path": "skills/update-llms"
+    },
+    "update-markdown-file-index": {
+      "path": "skills/update-markdown-file-index"
+    },
+    "update-specification": {
+      "path": "skills/update-specification"
+    },
+    "vardoger-analyze": {
+      "path": "skills/vardoger-analyze"
+    },
+    "vscode-ext-commands": {
+      "path": "skills/vscode-ext-commands"
+    },
+    "vscode-ext-localization": {
+      "path": "skills/vscode-ext-localization"
+    },
+    "web-design-reviewer": {
+      "path": "skills/web-design-reviewer"
+    },
+    "webapp-testing": {
+      "path": "skills/webapp-testing"
+    },
+    "what-context-needed": {
+      "path": "skills/what-context-needed"
+    },
+    "winmd-api-search": {
+      "path": "skills/winmd-api-search"
+    },
+    "winui3-migration-guide": {
+      "path": "skills/winui3-migration-guide"
+    },
+    "workiq-copilot": {
+      "path": "skills/workiq-copilot"
+    },
+    "write-coding-standards-from-file": {
+      "path": "skills/write-coding-standards-from-file"
+    },
+    "x-twitter-scraper": {
+      "path": "skills/x-twitter-scraper"
+    }
+  }
+}
